@@ -18,7 +18,7 @@ Logout feature
 
 ## Screenshots
 
-![App Screenshot]https://github.com/Bravim-Ketan-Purohit/Flight_booking_application/blob/main/client/screenshots/register.png)
+![App Screenshot](https://github.com/Bravim-Ketan-Purohit/Flight_booking_application/blob/main/client/screenshots/register.png)
 
 
 
