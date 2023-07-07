@@ -31,6 +31,10 @@ Logout feature
 
 ![App Screenshot](https://github.com/Bravim-Ketan-Purohit/Flight_booking_application/blob/main/client/screenshots/users.png)
 
+![App Screenshot](https://github.com/Bravim-Ketan-Purohit/Flight_booking_application/blob/main/client/screenshots/booking.png)
+
+![App Screenshot](https://github.com/Bravim-Ketan-Purohit/Flight_booking_application/blob/main/client/screenshots/pay.png)
+
 
 ## STEPS FOR USAGE/TESTING
 
