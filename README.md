@@ -16,6 +16,13 @@ STRIPE payment gateway(please use dummy credentials while testing)
 Logout feature
 
 
+## Screenshots
+
+![App Screenshot]https://github.com/Bravim-Ketan-Purohit/Flight_booking_application/blob/main/client/screenshots/register.png)
+
+
+
+
 ## STEPS FOR USAGE/TESTING
 
 to run this app you should clone this repo into your local device using git clone <Repo_url.git> and
