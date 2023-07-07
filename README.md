@@ -16,11 +16,20 @@ STRIPE payment gateway(please use dummy credentials while testing)
 Logout feature
 
 
+
 ## Screenshots
 
 ![App Screenshot](https://github.com/Bravim-Ketan-Purohit/Flight_booking_application/blob/main/client/screenshots/register.png)
 
+![App Screenshot](https://github.com/Bravim-Ketan-Purohit/Flight_booking_application/blob/main/client/screenshots/login.png)
 
+![App Screenshot](https://github.com/Bravim-Ketan-Purohit/Flight_booking_application/blob/main/client/screenshots/home1.png)
+
+![App Screenshot](https://github.com/Bravim-Ketan-Purohit/Flight_booking_application/blob/main/client/screenshots/addflight.png)
+
+![App Screenshot](https://github.com/Bravim-Ketan-Purohit/Flight_booking_application/blob/main/client/screenshots/bookflight.png)
+
+![App Screenshot](https://github.com/Bravim-Ketan-Purohit/Flight_booking_application/blob/main/client/screenshots/users.png)
 
 
 ## STEPS FOR USAGE/TESTING
